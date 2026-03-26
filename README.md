@@ -4,6 +4,6 @@
 EKS, Kubernetes, Istio, terraform passionist
 - License : CKA, ICA
 
-🕰️✨✨🤔💭🚁🎡💬
-- Do you really enjoy it?
-- Do you really love it?
+Plus(+): (for hobby)
+- LangGraph 
+- LangChain
