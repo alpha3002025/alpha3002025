@@ -8,4 +8,4 @@ Plus(+): (for hobby)
 - LangGraph 
 - LangChain
 - Gemini CLI (skill, sub agent, etc)
-- Agentic Coding Builder (mvp 생성기, feature making loop)
+- Agentic Coding Builder (mvp 생성기, feature making/modify loop)
