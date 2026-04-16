@@ -5,7 +5,6 @@ EKS, Kubernetes, Istio, terraform passionist
 - License : CKA, ICA
 
 Plus(+): (for hobby)
-- LangGraph 
-- LangChain
+- LangGraph, LangChain
 - Gemini CLI (skill, sub agent, etc)
-- Agentic Coding Builder (mvp 생성기, feature making/modify loop)
+- Wingardium Leviosa ✨ ❇️ 
